@@ -1,0 +1,1 @@
+# AutomatedCarNumberPlateDetection_TextExtraction_TrafficViolationSpeedingTicketIssuanceSystem
